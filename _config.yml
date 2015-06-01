@@ -16,3 +16,8 @@ markdown: redcarpet
 sass:
   sass_dir: _sass
   style: :compressed
+ 
+permalink: /:title
+
+category_archive:
+  path: category
