@@ -10,7 +10,8 @@ twitter_username: heavymery
 github_username: heavymery
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
+markdown: redcarpet
 
 sass:
   sass_dir: _sass
