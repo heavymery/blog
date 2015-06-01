@@ -1,0 +1,13 @@
+# Site settings
+#title: RWHA - (Responsive Web|Hybrid) App
+title: Shindeok Kang
+email: heavymery@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Shindeok Kang personal blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.heavymery.net" # the base hostname & protocol for your site
+twitter_username: heavymery
+github_username: heavymery
+
+# Build settings
+markdown: kramdown
