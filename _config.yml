@@ -18,6 +18,3 @@ sass:
   style: :compressed
  
 permalink: /:title
-
-category_archive:
-  path: category
